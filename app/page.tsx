@@ -15,7 +15,7 @@ import { listenNowAlbums, madeForYouAlbums } from "../data/albums";
 import { playlists } from "../data/playlists";
 
 export const metadata: Metadata = {
-  title: "Fusionumb",
+  title: "Fusio",
   description: "next gen co-writing tool for musicians",
 };
 
